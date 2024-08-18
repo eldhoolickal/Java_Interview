@@ -1,4 +1,4 @@
-package org.example.java.designpattern.abstractclass;
+package org.example.java.abstractclass;
 
 public class ShapeMain {
 
