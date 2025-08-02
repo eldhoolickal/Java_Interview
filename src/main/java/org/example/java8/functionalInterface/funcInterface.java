@@ -1,4 +1,4 @@
-package org.example.java8;
+package org.example.java8.functionalInterface;
 
 public class funcInterface {
 
